@@ -3,3 +3,4 @@ Ultimate-Guide-to-FastAPI-and-Backend-Development-main
 app_gettingstarted/__pycache__
 __pycache__
 *.pyc
+app/__pycache__
